@@ -1,0 +1,20 @@
+node_modules/
+.env
+.env.*
+*.log
+.firebase/
+.firebaserc
+.DS_Store
+__pycache__/
+# Local credentials and Firebase exports
+*.pem
+*.p12
+*.pfx
+*service-account*.json
+*serviceAccount*.json
+firebase-adminsdk*.json
+credentials.json
+secrets/
+playwright/.auth/
+test-results/
+playwright-report/

@@ -1,0 +1,1 @@
+export const settings={school:'ENSA Marrakech',program:'Cyberdéfense et Systèmes de Télécommunications Embarqués',year:'2026–2027',module:'Cybersécurité · cadre réglementaire',teacher:'',presenters:['Présentateur 1','Présentateur 2','Présentateur 3','Présentateur 4']};
